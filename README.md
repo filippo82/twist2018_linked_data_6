@@ -16,3 +16,19 @@ website
 -------
 WIP
 
+Group members
+========
+Andrea
+Audrey
+Cristina
+Daniele
+Dominik
+Eliane
+[Filippo](https://github.com/filippo82)
+Gabriela
+Herv'\{e\}
+Jeremy
+Klemens
+Michael
+Samuel
+Tony
