@@ -1,8 +1,12 @@
 List of SPARQL queries
 ======================
 
-Endpoint
---------
+Stadt Zuerich YASGUI
+--------------------
+You can test the various queries listed below using the [YASGUI (Yet Another SPARQL GUI)](https://ld.stadt-zuerich.ch/sparql) provided by the City of Zurich.
+
+Endpoint for SPARQL queries
+---------------------------
 [https://ld.stadt-zuerich.ch/query](https://ld.stadt-zuerich.ch/query)
 
 ### Area per quarter (area: only land without forest, in km2)
