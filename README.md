@@ -26,7 +26,7 @@ Dominik
 Eliane
 [Filippo](https://github.com/filippo82)
 Gabriela
-Herv'\{e\}
+Hervé
 Jeremy
 Klemens
 Michael
